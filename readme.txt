@@ -11,6 +11,10 @@ And I'm gonna commit this on my SourceTree.
 后三者的地址都一样，是谷歌邮箱。
 而「胡磊」则是 Moy@Moybook.local。
 
+OK，那么现在可以确认了：
+1. Hu Lei 是 ST 里的默认全局设置，用的谷歌邮箱；之前的 Moyf 也是 ST 的设置，名字自己随便改。
+2. 「胡磊」/本地邮箱的提交是从哪里来的……
+
 
 
 
