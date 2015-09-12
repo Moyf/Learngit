@@ -31,5 +31,9 @@ Now I have power of both yours.
 所以我可以直接使用 FastForward 快速合并……这样一来，一旦我被删除了，分支历史也看不到了哟？
 
 
+wo shi yige BUG  hahahahah!!
+
+int i = "2048";
+
 
 
