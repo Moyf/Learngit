@@ -18,5 +18,10 @@ OK，那么现在可以确认了：
 接下来就是冲突合并的时刻了！
 
 
+Do a little change.
+Now I'm On Feature1.
 
+
+Now I have power of both yours.
+你们对真正的力量一无所知！
 
