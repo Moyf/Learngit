@@ -25,3 +25,11 @@ Now I'm On Feature1.
 Now I have power of both yours.
 你们对真正的力量一无所知！
 
+
+[13:52] 好啦，现在 feature1 和 master 已经合并了。（顺便一提，feature1也已经被干掉了呢，嘿嘿）
+接下来，你看到的我是 newFeature，实际上和 master 没有多大区别，只是直接增加的功能。
+所以我可以直接使用 FastForward 快速合并……这样一来，一旦我被删除了，分支历史也看不到了哟？
+
+
+
+
